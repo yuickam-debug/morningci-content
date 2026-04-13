@@ -391,6 +391,252 @@
           "explanation": "Danish has V2 (verb-second) word order: the main verb is always the second element in the sentence. When a time phrase like 'en dag' (one day) starts the sentence, the verb 'tændte' comes immediately after — then the subject 'han'. This is identical to German V2 word order."
         }
       ]
+    },
+    {
+      "id": "da-guldimund-det-kun-vigtigt",
+      "language": "da",
+      "level": "B1",
+      "title": "Det' kun vigtigt, hvad det er",
+      "titleEn": "It Only Matters What It Is",
+      "artist": "Guldimund",
+      "dateAdded": "2026-04-13",
+      "tags": ["lyrics", "guldimund", "romantic"],
+      "contentType": "lyrics",
+      "body": "Fuck det, nu vælter solen ind\nOg fortryller alle støvkorn på min bordplade\nDet' helt okay at være til\nLuften sitrer, når jeg rører ved din overflade\n\nDet' weird at tænk' på, du' en anden, så jeg prøver at la' være\nMen du' ligeglad med, hva' det ligner - det' kun vigtigt, hva' det er\n\nFuck det, nu lukker jeg dig ind\nFor jeg smelter af den måde, du si'r hej på\nDet' nok til, jeg ringer op igen\nForuden 22 måder, du er dig på\n\nDet' weird at tænk' på, du' en anden, så jeg prøver at la' være\nMen du' ligeglad med, hva' det ligner - det' kun vigtigt, hva' det er\n\nHold mig tæt til dit hoved, hold dit vejr\nFør du griber mig med øjnene og dit mod\nFør jeg møder dig der\nHvor jeg næsten ikke fatter ting med mit hoved\nDet roder, men modet ka' opløse rodet\n\nDet' weird at tænk' på, du' en anden, så jeg prøver at la' være\nOg det' weird at tænk' på, at det faktisk ikk' behøver være svært, nej\nOg det' weird at tænk' på, at jeg nærmest kun har kendt dig et kvarter\nFor du' ligeglad med, hva' det ligner - det' kun vigtigt, hva' det er",
+      "vocabulary": [
+        { "word": "vælte ind", "translation": "to pour / flood in" },
+        { "word": "fortrylle", "translation": "to enchant / bewitch" },
+        { "word": "et støvkorn", "translation": "a dust particle" },
+        { "word": "sitrer", "translation": "shivers / trembles" },
+        { "word": "en overflade", "translation": "a surface" },
+        { "word": "ligeglad", "translation": "indifferent / doesn't care" },
+        { "word": "ligne", "translation": "to resemble / look like" },
+        { "word": "gribe", "translation": "to grab / catch" },
+        { "word": "et mod", "translation": "courage / boldness" },
+        { "word": "opløse", "translation": "to dissolve / resolve" }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Spoken Danish contractions",
+          "exampleSentence": "Det' kun vigtigt, hva' det er.",
+          "explanation": "Guldimund's lyrics use heavy spoken contractions: 'det'' = 'det er', 'du'' = 'du er', 'hva'' = 'hvad', 'tænk'' = 'tænke', 'la'' = 'lade', 'ikk'' = 'ikke'. These dropped endings are typical of casual Danish speech and very common in songs and podcasts."
+        },
+        {
+          "rule": "'Prøve at' + infinitive (to try to do something)",
+          "exampleSentence": "Jeg prøver at la' være.",
+          "explanation": "'Prøve at' + infinitive means 'to try to do something'. 'La' være' = 'lade være' = 'to refrain / stop'. The infinitive marker 'at' always appears between 'prøver' and the following verb."
+        },
+        {
+          "rule": "'Være til' — to exist / to be alive",
+          "exampleSentence": "Det' helt okay at være til.",
+          "explanation": "'Være til' literally means 'to be present/here' but colloquially means 'to exist' or 'to be in the world'. 'Det er okay at være til' = 'It is okay to exist.' A gentle and very common Danish expression."
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-vil-du-noget",
+      "language": "da",
+      "level": "B2",
+      "title": "Vil du noget?",
+      "titleEn": "Do You Want Something?",
+      "artist": "Guldimund",
+      "dateAdded": "2026-04-13",
+      "tags": ["lyrics", "guldimund", "colloquial"],
+      "contentType": "lyrics",
+      "body": "Åh, jeg ku' smadre noget, lige nu og her\nÅh, eller ta' afsted\nDu og jeg, ud og finde nogen og snave med\nHey, hey, ja dig\nVil du noget? Vil du noget med mig?\n\nI en by uden for Viborg tæt på stadion\nHer ligger Martin på en mark, de siger han har fået angst\nPrøver nogle piller, drukner i afmagt, slikker sine ungdomssår\nByen her keder ham, kom lad os smadre noget\nHvor var hun henne i går?\nHan smiler, siger alt er cool\nMen de hvisker i krogene nu\nDe siger hun var ham utro, en 2.g'er fra Bjerringbro\n\nÅh, jeg ku' smadre noget\nLige nu og her\nÅh, eller ta' afsted\nDu og jeg\nUd og finde nogen og snave med\nVil du noget? Vil du noget med mig?\n\nJeg var kun 15, det var sejest bare at være ligeglad\nAlt hvad jeg vidste om intimitet, havde jeg set i et M!-blad\nKom lad os smadre noget, eller finde nogen vi kan snave med\nOg når jeg ser tilbage, alt det der var normalt\nJeg drukner i afmagt og kedsomhed og smerte\n\nVil du noget? Vil du noget? Vil du noget med mig?",
+      "vocabulary": [
+        { "word": "smadre", "translation": "to smash / wreck / break" },
+        { "word": "ta' afsted", "translation": "to head off / leave (contracted 'tage afsted')" },
+        { "word": "snave", "translation": "to make out / snog (slang)" },
+        { "word": "angst", "translation": "anxiety" },
+        { "word": "afmagt", "translation": "powerlessness / helplessness" },
+        { "word": "kedsomhed", "translation": "boredom" },
+        { "word": "utro", "translation": "unfaithful" },
+        { "word": "hvisker", "translation": "whispers" },
+        { "word": "en krog", "translation": "a corner" },
+        { "word": "slikke sine sår", "translation": "to lick one's wounds (idiom)" }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "'Vil du noget (med mig)?' — romantic idiom",
+          "exampleSentence": "Vil du noget? Vil du noget med mig?",
+          "explanation": "Literally 'Do you want something?' but 'Vil du noget med mig?' is a Danish idiom meaning 'Are you interested in me?' — colloquial way to express romantic intent. The ambiguity is intentional: it can mean anything from 'do you want to hang out' to 'do you like me'."
+        },
+        {
+          "rule": "'Ku'' = 'kunne' and other B2 contractions",
+          "exampleSentence": "Jeg ku' smadre noget.",
+          "explanation": "'Ku'' = 'kunne' (could), 'ta'' = 'tage'. At B2+ level, recognising these contractions is essential for listening comprehension in Danish — they appear constantly in songs, podcasts, and casual speech."
+        },
+        {
+          "rule": "'Drukne i' — to be overwhelmed by (metaphor)",
+          "exampleSentence": "Drukner i afmagt og kedsomhed og smerte.",
+          "explanation": "'Drukne' means 'to drown'. 'Drukne i noget' is a very common Danish metaphor: 'drukner i afmagt' = 'drowning in helplessness', 'drukner i arbejde' = 'drowning in work'. Use it whenever someone is completely overwhelmed."
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-halskade",
+      "language": "da",
+      "level": "B1",
+      "title": "Halskæde",
+      "titleEn": "Necklace",
+      "artist": "Guldimund",
+      "dateAdded": "2026-04-13",
+      "tags": ["lyrics", "guldimund", "romantic"],
+      "contentType": "lyrics",
+      "body": "Du har mødt en kvinde\nDet var før, du mødte mig\nOg for to timer siden rendte I to på hinanden igen\nOg det har skræmt dig\nHun var sammen med sin nye kærest'\nSom ogs' ligner dig\nDe holdt i hånden, og hun spurgt', hvordan du har det for tiden\nOg nu' du ligbleg\n\nFor hva' ku' livet ikk' være blevet til\nHvis det var hende, du var gået med?\nHvor længe har du tænkt dig at gå med hendes halskæde?\n\nDu si'r det til mig midt i dagligstuen\nEt godt drama her i aftensolen\nJeg sidder stift i min lænestol\nOg forsøger at bevare roen\nHun var sammen med sin nye kærest'\nSom ogs' ligner dig, det har du sagt\nJeg googler hendes navn, det sku' jeg ikk' ha' gjort\nNu er jeg helt ødelagt\n\nFor hva' ku' livet ikk' være blevet til\nHvis det var hende, du var gået med?\nHvor længe har du tænkt dig at gå med hendes halskæde?\nJa, hva' ku' livet ikk' være blevet til\nHvis det var hende, du var gået med?\nSig mig, hvor længe har du tænkt dig at gå med hendes halskæde?\n\nDu har mødt en kvinde\nHva' ska' jeg stille op?\nJeg ka' kun tilbyde den her krop\nEr den tilstrækkelig?\n\nFor hva' ku' livet ikk' være blevet til?\nHvor længe har du tænkt dig at gå med hendes halskæde?\nSig mig, hvor længe har du tænkt dig at gå med hendes halskæde?",
+      "vocabulary": [
+        { "word": "en halskæde", "translation": "a necklace" },
+        { "word": "en kærest'", "translation": "a boyfriend / girlfriend ('kæreste')" },
+        { "word": "rende på hinanden", "translation": "to run into each other (by chance)" },
+        { "word": "skræmme", "translation": "to frighten / scare" },
+        { "word": "ligbleg", "translation": "deathly pale (lit. corpse-pale)" },
+        { "word": "en dagligstue", "translation": "a living room" },
+        { "word": "en lænestol", "translation": "an armchair" },
+        { "word": "bevare roen", "translation": "to keep calm / maintain composure" },
+        { "word": "ødelagt", "translation": "devastated / broken / ruined" },
+        { "word": "tilstrækkelig", "translation": "sufficient / enough" }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Conditional perfect: 'ku' være blevet til' (could have become)",
+          "exampleSentence": "Hva' ku' livet ikk' være blevet til?",
+          "explanation": "'Ku'' = 'kunne', 'være blevet til' = past infinitive of 'blive til'. Together: 'could have become'. Full form: 'Hvad kunne livet ikke være blevet til?' = 'What could life not have become?' This expresses regret about paths not taken."
+        },
+        {
+          "rule": "'Gå med nogen' — to date / be in a relationship",
+          "exampleSentence": "Hvis det var hende, du var gået med?",
+          "explanation": "'Gå med nogen' is a Danish idiom for being in a romantic relationship. 'Var gået med' = past perfect 'had gone out with'. 'Hvis det var hende, du var gået med' = 'If she had been the one you were with'."
+        },
+        {
+          "rule": "'Stille op' — to do / manage / offer a solution",
+          "exampleSentence": "Hva' ska' jeg stille op?",
+          "explanation": "'Stille op' here means 'what can I do?' — expressing helplessness. Very common: 'jeg ved ikke hvad jeg skal stille op' = 'I don't know what to do'. Context changes its meaning (can also mean to set something up or to compete in an election)."
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-hvordan-ser-gud-ud",
+      "language": "da",
+      "level": "B2",
+      "title": "Hvordan ser Gud ud?",
+      "titleEn": "What Does God Look Like?",
+      "artist": "Guldimund",
+      "dateAdded": "2026-04-13",
+      "tags": ["lyrics", "guldimund", "family"],
+      "contentType": "lyrics",
+      "body": "Med opmærksomheden rettet mod de nyspartlede huller i min stuevæg\nIrettesætter jeg dig med et tonefald, så hårdt, at det ku' bryde is\nFordi du spilder noget suppe, jeg har varmet op\n\nJeg sætter tommeltot og langefinger mellem mine øjne\nLukker dem i cirka ni sekunder, mens jeg ekshalerer dybt\nLægger hovedet på skrå og ser på dig, før jeg roder rundt i dit grydehår og smiler lidt\n\nDu rejser dig og danser lidt i stolen\nJeg siger, du ska' sæt' dig ned\nDu siger, jeg skal sige til mor\nDu aldrig gider sove her igen\n\nSå spurgte du mig, hvordan Gud ser ud?\nDet er et virkelig godt spørgsmål, hva' tror du?\nDu svared': »Jeg tror han bor i en landsby i Nordsjælland«\n\nJeg parkerer dig i brusenichen med en spand af plastik\nOg legetøj fra BR, som vi har valgt sammen\nOg du synger: »na-na-na-na-na-na«\nJeg ka' høre dig, mens jeg rydder op\nOg vi griner, da jeg gi'r dig din pyjamas på\nOg jeg gnubber mildt, men energisk på din spinkle krop\n\nDu rejser dig og danser lidt i sengen\nJeg siger, at du skal læg' dig ned\nDu siger, jeg skal sige til mor\nDu aldrig gider sove her igen\n\nSå spurgte du mig, hvordan Gud ser ud\nDet er et virkelig godt spørgsmål, hva' tror du?\nDu svared': »Jeg tror han bor i en landsby i Nordsjælland«",
+      "vocabulary": [
+        { "word": "opmærksomhed", "translation": "attention" },
+        { "word": "irettesætte", "translation": "to reprimand / scold" },
+        { "word": "et tonefald", "translation": "a tone of voice" },
+        { "word": "spilde", "translation": "to spill / waste" },
+        { "word": "ekshalere", "translation": "to exhale" },
+        { "word": "grydehår", "translation": "messy hair (lit. pot-hair, informal)" },
+        { "word": "gnubbe", "translation": "to rub / scrub" },
+        { "word": "spinkle", "translation": "frail / slender / slight" },
+        { "word": "et spørgsmål", "translation": "a question" },
+        { "word": "en landsby", "translation": "a village" }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Reflexive verb 'rejse sig' (to stand up / get up)",
+          "exampleSentence": "Du rejser dig og danser lidt i stolen.",
+          "explanation": "'Rejse sig' = 'to get up'. 'Sig' is the reflexive pronoun. Other reflexive movement verbs: 'sætte sig' (sit down), 'lægge sig' (lie down), 'vende sig' (turn around). These describe movement of the body relative to itself."
+        },
+        {
+          "rule": "Indirect question with 'hvordan' keeps normal word order",
+          "exampleSentence": "Spurgte du mig, hvordan Gud ser ud?",
+          "explanation": "In Danish indirect questions, word order does NOT invert — subject comes before verb. 'Hvordan Gud ser ud' = subject 'Gud' + verb 'ser'. Compare: direct 'Hvordan ser Gud ud?' (inverted) vs indirect 'jeg spørger, hvordan Gud ser ud' (not inverted)."
+        },
+        {
+          "rule": "Separable verb 'se ud' (to look like / to appear)",
+          "exampleSentence": "Hvordan ser Gud ud?",
+          "explanation": "'Se ud' splits: 'se' stays in verb position, 'ud' goes to the end. Meaning: 'to look like'. 'Hvordan ser han ud?' = 'What does he look like?'. 'Det ser godt ud' = 'That looks good'. One of the most frequent Danish phrasal verbs."
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-moens-klint",
+      "language": "da",
+      "level": "B2",
+      "title": "Møns Klint",
+      "titleEn": "Møns Klint",
+      "artist": "Guldimund",
+      "dateAdded": "2026-04-13",
+      "tags": ["lyrics", "guldimund", "romantic"],
+      "contentType": "lyrics",
+      "body": "Du har åbnet dit hjerte, dit hjem og dit liv og din krop for mig\nDu koger pasta og rister valnødder i honning og hvidløg, mens jeg finder en proptrækker\nDu ligger på sengen i lyset uden top, jeg stopper op og tænker: hva' har vi gjort, vi skal ha' det så godt?\n\nVi tog på roadtrip\nTil Møns Klint i din Ford Fiesta\nFjorten dage efter jeg mødte dig\nJeg blev forført af\nDen måde du holdt TED Talks om sexistiske strukturer på din arbejdsplads\n\nFørst hang vi ud i et sommerhus\nMed et par andre par, som vi ikk' rigtig kendte endnu\nMen om natten var det kun dig og mig i en sejlbåd\nDer var stjerneklart, og intet sagt blev misforstået\nOg indtil videre er der ikke gået\nEn dag, hvor vi to ikk' har gennemgået\nAlt, der flyver gennem hovedet\n\nDu forærer mig din fremtid - det' ikk' nok for mig\nKu' jeg blot ha' kendt dig altid?\nDet' som om, at hvert minut uden dig er spildt\nNogen dage ser jeg os om tredive år i dine øjne\nDu smiler til mig tværs gennem tid, der kommer\n\nNår jeg ser dit navn på displayet\nFår jeg åndenød og rammes af en barnlig glæde\nVores liv er en lang samtale, som af og til bli'r ramt af, at vi af og til ska' sove\n\nSå la' os tale noget mere om, hvordan vi vil male lejligheden\nOg la' os tale meget mere om, hva' vores børn ska' hedde",
+      "vocabulary": [
+        { "word": "riste", "translation": "to roast / toast" },
+        { "word": "en valnød", "translation": "a walnut" },
+        { "word": "en proptrækker", "translation": "a corkscrew" },
+        { "word": "forføre", "translation": "to seduce / captivate" },
+        { "word": "et sommerhus", "translation": "a summer cottage / holiday home" },
+        { "word": "stjerneklart", "translation": "starry and clear (of a night sky)" },
+        { "word": "misforstå", "translation": "to misunderstand" },
+        { "word": "åndenød", "translation": "shortness of breath" },
+        { "word": "forærer", "translation": "gives as a gift / presents" },
+        { "word": "af og til", "translation": "from time to time / occasionally" }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Passive with 'blive' + past participle",
+          "exampleSentence": "Jeg blev forført af den måde du holdt TED Talks.",
+          "explanation": "Danish passive: 'blive' + past participle. 'Jeg blev forført' = 'I was captivated'. The doer comes after 'af' (by): 'forført af den måde' = 'captivated by the way'. Also: 'rammes af en barnlig glæde' = 'is struck by a childlike joy'."
+        },
+        {
+          "rule": "'Om' + time = in X time (future)",
+          "exampleSentence": "Nogen dage ser jeg os om tredive år i dine øjne.",
+          "explanation": "'Om' with a future time expression means 'in X time from now'. 'Om tredive år' = 'in thirty years'. Compare: 'for tredive år siden' = 'thirty years ago'. The preposition signals direction in time: 'om' (forward) vs 'siden' (backward)."
+        },
+        {
+          "rule": "'Af og til' — from time to time (adverb phrase)",
+          "exampleSentence": "Vores liv er en lang samtale, som af og til bli'r ramt af...",
+          "explanation": "'Af og til' means 'from time to time' or 'occasionally'. Sits in the middle field after the verb. Synonyms: 'somme tider', 'ind imellem'. Very common in everyday Danish."
+        }
+      ]
+    },
+    {
+      "id": "da-guldimund-forstar-du",
+      "language": "da",
+      "level": "B2",
+      "title": "Forstår du?",
+      "titleEn": "Do You Understand?",
+      "artist": "Guldimund",
+      "dateAdded": "2026-04-13",
+      "tags": ["lyrics", "guldimund", "social"],
+      "contentType": "lyrics",
+      "body": "»Hva' er det, der ikke er retfærdigt?« spørg' hun, mens hun læner sig ind over bordet\n»Du valgt' jo selv at gå«\n»Hva' er det, der ikke er retfærdigt?« gentager hun\n»Hør lig' her, jeg har rigtig mange sager, som er meget vær' end din«\n\n»Det hjælper jo selvfølgelig ikk' dig, men din ordning er fin«\n\nForstår du?\nDen er rigtig fin\nForstår du?\nForstår du?\nForstår du?\n\nI de her sager, hvor barnet er så lille\nVil man højst sandsynligt vurdere, at barnet har størst tilknytning til moren\nDet var hende, der gik på barsel, var det ikk'?\nJeg hører højlydte stemmer bag en skydevæg\nHva' ærgrer du dig for, det' ikk' sådan landet ligger\nOg den ret til delt bopæl, du har læst om, eksisterer bare ikke\nHun ka' tage ham med til Thisted, men du får seks ugers varsel i din E-boks\n\n»Det hjælper jo selvfølgelig ikk' dig, men din ordning er fin«\n\nForstår du?\nDen er rigtig fin\nForstår du?\nForstår du?\nForstår du?\n\nHun si'r: »Jeg beklager, men din tid er gået«\nJeg drikker vand af en kaffekop\n»You can't buy happiness, but you can buy coffee and that's damn close«, står der på den\nHun si'r: »Jeg håber, du ku' bruge det til noget«\nJeg drikker vand af en kaffekop\n\nHun si'r: »Hva' er det, der ikke er retfærdigt?«, mens hun læner sig ind over bordet\n»Du valgt' jo selv at gå«",
+      "vocabulary": [
+        { "word": "retfærdig", "translation": "fair / just" },
+        { "word": "en ordning", "translation": "an arrangement / scheme / deal" },
+        { "word": "tilknytning", "translation": "attachment / bond / connection" },
+        { "word": "barsel", "translation": "maternity / parental leave" },
+        { "word": "bebrejdelse", "translation": "blame / reproach" },
+        { "word": "delt bopæl", "translation": "shared custody / shared residence" },
+        { "word": "et varsel", "translation": "a notice / warning" },
+        { "word": "beklage", "translation": "to regret / apologise" },
+        { "word": "en sag", "translation": "a case / matter" },
+        { "word": "vurdere", "translation": "to assess / evaluate" }
+      ],
+      "grammarPoints": [
+        {
+          "rule": "Impersonal 'man' (one / people in general)",
+          "exampleSentence": "Man vil højst sandsynligt vurdere, at barnet har størst tilknytning til moren.",
+          "explanation": "'Man' = 'one' or 'people in general' — avoids naming a specific person. Very common in formal, legal, and bureaucratic Danish. 'Man vurderer' = 'it is assessed / one assesses'. This song uses bureaucratic register deliberately to convey the coldness of the system."
+        },
+        {
+          "rule": "'Sådan ligger landet' — that's how things are (idiom)",
+          "exampleSentence": "Det' ikk' sådan landet ligger.",
+          "explanation": "'Sådan ligger landet' literally means 'that's how the land lies' — an idiom for 'that's the situation / that's how it is'. Used to bluntly dismiss or explain a reality. Very common: 'Sådan er det bare, sådan ligger landet'."
+        },
+        {
+          "rule": "Reported speech with 'hun si'r:' (direct quote with colon)",
+          "exampleSentence": "Hun si'r: »Jeg beklager, men din tid er gået«",
+          "explanation": "'Si'r' = 'siger' (says) — contracted. Danish introduces direct speech with a colon, then the words in » « quotes. This is the standard Danish dialogue format in writing. The » « marks are used where English would use double quotes."
+        }
+      ]
     }
   ]
 }
